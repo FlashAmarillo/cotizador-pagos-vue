@@ -12,6 +12,4 @@ const props = defineProps({
     operator: String
 });
 
-console.log(props);
-
 </script>

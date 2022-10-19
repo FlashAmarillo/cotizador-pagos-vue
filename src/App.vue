@@ -63,8 +63,6 @@ const cantidad = ref(10000);
 const meses = ref(6);
 const total = ref(0);
 
-console.log(total);
-
 // Definicion de constantes
 const MIN = 0;
 const MAX = 20000;
