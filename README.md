@@ -8,6 +8,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Para iniciar localmente ejecutar el siguiente comando
 ~~~
+cd cotizador-pagos-vue
 npm install
 npm run dev
 ~~~
